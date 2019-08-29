@@ -1,6 +1,46 @@
 # Code for Multiplayer Game Development with JavaScript
 
-This repository has the source code for the video series on JavaScript Multiplayer Game Development 
-course that I'm publishing on YouTube now. 
 
-- Video 1: https://youtu.be/xVcVbCLmKew
+## About The Project
+This game is based on realtime connection environment created between clients as multiple players which are bridged via server. 
+Game flows follows players joining -- matching in groups of 2-- game play --result as per game logic.
+Game logic is based on distances of turns in cycle. 
+Socket.io is used for the realtime connection.
+
+Implemented in Node.js using Express.js web application framework for backend, Vanilla JS, HTML and CSS for frontend.  
+
+### Built With
+* [Socket.io]
+* [Express.js]
+* [Node.js]
+* [JavaScript]
+* [HTML]
+* [CSS]
+
+
+
+### Prerequisites
+
+* npm Update
+```sh
+npm install npm@latest -g
+```
+
+### Installation
+
+1. Clone the repo
+```sh
+git clone https:://github.com/ysonu1010/Rock-Paper-Scissor.git
+```
+3. Install NPM packages
+```sh
+npm install
+```
+4. Run Node server from ./Rock-Paper-Scissor/server
+```JS
+node server.js
+```
+
+For bugs or Improvement suggestions (if any), please mail at y_sonu@iitg.ac.in
+
+
