@@ -2,12 +2,11 @@
 
 
 ## About The Project
-This game is based on realtime connection environment created between clients as multiple players which are bridged via server. 
-Game flows follows players joining -- matching in groups of 2-- game play --result as per game logic.
-Game logic is based on distances of turns in cycle. 
-Socket.io is used for the realtime connection.
-
-Implemented in Node.js using Express.js web application framework for backend, Vanilla JS, HTML and CSS for frontend.  
+* This game is based on realtime connection environment created between clients as multiple players which are bridged via server. 
+* Game flows follows players joining -- matching in groups of 2-- game play --result as per game logic.
+* Game logic is based on distances of turns in cycle. 
+* Socket.io is used for the realtime connection.
+ 
 
 ### Built With
 * Socket.io
@@ -42,5 +41,3 @@ node server.js
 ```
 
 For bugs or Improvement suggestions (if any), please mail at y_sonu@iitg.ac.in
-
-
