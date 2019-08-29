@@ -1,4 +1,4 @@
-# Code for Multiplayer Game Development with JavaScript
+# Multiplayer Web based Game: Rock-Paper-Scissor
 
 
 ## About The Project
