@@ -10,12 +10,12 @@ Socket.io is used for the realtime connection.
 Implemented in Node.js using Express.js web application framework for backend, Vanilla JS, HTML and CSS for frontend.  
 
 ### Built With
-* [Socket.io]
-* [Express.js]
-* [Node.js]
-* [JavaScript]
-* [HTML]
-* [CSS]
+* Socket.io
+* Express.js
+* Node.js
+* JavaScript
+* HTML
+* CSS
 
 
 
