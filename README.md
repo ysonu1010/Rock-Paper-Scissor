@@ -3,7 +3,7 @@
 
 ## About The Project
 * This game is based on realtime connection environment created between clients as multiple players which are bridged via server. 
-* Game flows follows players joining -- matching in groups of 2-- game play --result as per game logic.
+* Game flow follows players joining -- matching in groups of 2-- game play --result as per game logic.
 * Game logic is based on distances of turns in cycle. 
 * Socket.io is used for the realtime connection.
  
