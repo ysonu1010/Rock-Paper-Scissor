@@ -25,10 +25,10 @@ npm install npm@latest -g
 ### Installation
 ```
 Clone the repo
-git clone https:://github.com/ysonu1010/Rock-Paper-Scissor.git
-npm install
+* git clone https:://github.com/ysonu1010/Rock-Paper-Scissor.git
+* npm install
 Run Node server from ./Rock-Paper-Scissor/server
-node server.js
+* node server.js
 ```
 ```
 For bugs or Improvement suggestions (if any), please mail at y_sonu@iitg.ac.in
